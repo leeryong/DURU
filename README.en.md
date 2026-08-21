@@ -16,6 +16,16 @@
 
 ---
 
+> ## 📢 The Windows build is out — **v0.8.0**
+>
+> <sub>2026-08-21</sub>
+>
+> One installer (about 230 MB) and you're done. → **[Download](../../releases/latest)**
+> A ready-made knowledge base, **"National Statutes (sample of 15)"**, is published alongside it —
+> import it and you can start asking straight away.
+
+---
+
 ## 🔎 At a glance
 
 DURU is **an AI that answers from documents you own**.
@@ -28,52 +38,32 @@ It is not a cloud service — you install it on your own PC.
 
 ---
 
-## 🔗 DURU and DURU Studio
-
-DURU is the **using** side. The heavy preparation happens once on the **building** side,
-and the result is handed over as a file.
+## 🖥️ What it looks like
 
 <div align="center">
-  <img src="assets/duru_flow_en.png" alt="DURU (the using side) receives a knowledge base and an agent as files, then imports, asks, and checks the sources. Those files are built in DURU Studio (the building side) from documents and handed over encrypted" width="88%" />
+  <img src="assets/main-overview.png" alt="The DURU window — knowledge base and documents on the left, document viewer in the middle with the cited passage boxed, agent conversation on the right" width="94%" />
 </div>
 
-<details>
-<summary><sub>Diagram source (mermaid) — edit this and regenerate the image</sub></summary>
+<sub>**Knowledge base** on the left, **document viewer** in the middle, **agent** on the right.
+Click a source under an answer and the viewer jumps to that document and position, with the quoted passage boxed.</sub>
 
-```mermaid
-flowchart RL
-  subgraph USE["📚 Use · DURU"]
-    direction TB
-    IMP["📥 Import"] --> ASK["💬 Ask"] --> CITE["🔍 Check sources<br/>document · page"]
-  end
+---
 
-  subgraph MAKE["🛠️ Build · DURU Studio"]
-    direction TB
-    DOC["📄 Documents<br/>rules · papers · textbooks"] --> KB["📦 Knowledge base<br/>organized for search"] --> AG["🤖 Agent<br/>persona · skills · model"]
-  end
+## 📦 Built once, used by everyone
 
-  MAKE -->|"🔐 encrypted handoff<br/>📦 .durukb　🤖 .duruagent"| USE
+Preparation is heavy. Organising hundreds of volumes of regulations takes time even on a good machine.
+There is no reason for a hundred colleagues to each repeat it.
 
-  style USE fill:#e6f2ff,stroke:#2563eb,stroke-width:2px
-  style MAKE fill:#fff4e6,stroke:#f59e0b,stroke-width:2px
-  style KB fill:#fde68a,stroke:#f59e0b
-  style AG fill:#fde68a,stroke:#f59e0b
-  style IMP fill:#bfdbfe,stroke:#2563eb
-  style CITE fill:#bfdbfe,stroke:#2563eb
-```
+**One person builds it and hands out the file.** The receiving side just imports —
+searchable **immediately**, with nothing recomputed.
 
-<sub>Regenerate: `npx -y @mermaid-js/mermaid-cli@11 -i diagram.mmd -o assets/duru_flow_en.png -b white -s 3`</sub>
-
-</details>
-
-| | What it does |
-| --- | --- |
-| 📚 **DURU**<br/><sub>one per person</sub> | Imports the files it receives, then **asks questions and checks the sources** |
-| 🛠️ **DURU Studio**<br/><sub>one per organization</sub> | Turns documents into a knowledge base, builds agents, and **exports them as files** |
+<div align="center">
+  <img src="assets/kb-import.png" alt="The knowledge base list in Settings, showing document and chunk counts for an imported base" width="88%" />
+</div>
 
 > [!NOTE]
-> You don't have to build anything yourself. **When a knowledge base and an agent arrive as files,**
-> they work immediately — no preparation needed.
+> You don't have to build one. **If someone hands you a knowledge base file**,
+> you can use it on the spot with no preparation at all.
 
 ---
 
@@ -102,6 +92,21 @@ When it cannot find grounds, it says so rather than inventing an answer.
 Because it reads **where** each paragraph, table, and figure sits on the page,
 it can point to the precise location behind an answer.
 
+<div align="center">
+  <img src="assets/answer-evidence.png" alt="Sources unfolding under an answer with document name, page and similarity" width="52%" />
+</div>
+
+<sub>A real exchange — asked *"What kinds of disciplinary action does the State Public Officials Act provide for?"*,
+it answers **removal, discharge, demotion, suspension, salary reduction and reprimand**, and lists five sources
+with document and page. The percentage on the right is how close that passage is to the question.</sub>
+
+<div align="center">
+  <img src="assets/evidence-in-page.png" alt="Clicking a source jumps the viewer to that page with the cited article boxed" width="94%" />
+</div>
+
+<sub>Click a source and it goes to that document, that position. Not "it's on page N" but a box **on the article itself**,
+so you can confirm at a glance — just under the box sits **Article 79 (Kinds of Disciplinary Action)**.</sub>
+
 Wording does not have to match. Ask about "research misconduct" and it will surface clauses
 that never use that phrase. Conversely, something like "Article 7-2" — where **the exact form matters** —
 is not missed either.
@@ -115,22 +120,32 @@ PDF, HWP, Word, Excel, PowerPoint, e-books, and scanned images are all handled.
 You can keep several separate. Rules in one, papers in another, textbooks in a third —
 ask only the one you need.
 
+<div align="center">
+  <img src="assets/kb-sidebar.png" alt="The knowledge base panel — a summary and 15 documents all marked as indexed" width="46%" />
+</div>
+
 **Starter knowledge bases** are in preparation for law, science and technology, economics,
 public administration, and education.
 
+> [!TIP]
+> **The law starter, "National Statutes (sample of 15)", is out.** Download it with the installer,
+> import it, and you can start asking immediately.
+
 <details>
-<summary><sub>Coming soon — items cleared for copyright (the knowledge base files are not distributed yet)</sub></summary>
+<summary><sub>What's inside — 15 full statutes from the Korean National Law Information Center</sub></summary>
 
 <sub>
 
-Fourteen full statutes from the Korean National Law Information Center. Korean statutes are
-non-protected works under Article 7(1) of the Copyright Act, so they may be redistributed without conditions.
+Constitution · State Public Officials Act · Local Autonomy Act · Administrative Procedures Act ·
+Personal Information Protection Act · National Health Insurance Act · Housing Act ·
+National Land Planning and Utilization Act · Framework Act on the Management of Disasters and Safety ·
+Environmental Impact Assessment Act · Monopoly Regulation and Fair Trade Act ·
+Fair Transactions in Subcontracting Act · Industrial Cluster Development and Factory Establishment Act ·
+Act on National R&D Innovation and its Enforcement Decree
 
-Constitution · Civil Act · Criminal Act · Commercial Act · Criminal Procedure Act · Labor Standards Act ·
-Personal Information Protection Act · Copyright Act, and six more
-
-Science and technology, economics, public administration, and education will be added once their
-redistribution terms are confirmed.
+Korean statutes are non-protected works under Article 7(1) of the Copyright Act, so they may be
+redistributed without conditions. Science and technology, economics, public administration and
+education will follow as redistribution terms are settled.
 
 </sub>
 </details>
@@ -192,9 +207,31 @@ how sources are presented, and how packages are exchanged
 
 ---
 
-## 📥 Availability
+## 📥 Downloads
 
-A Windows installer is in preparation. This page will carry the announcement when it is released.
+| | |
+| --- | --- |
+| **DURU Setup 0.8.0.exe** | Windows 10/11 (64-bit) · about 230 MB · [Download](../../releases/latest) |
+| **National Statutes (sample of 15).durukb** | A knowledge base to try it with · about 70 MB · [Download](../../releases/latest) |
+
+**Installing**
+
+1. Run the `.exe`. There's no code signature, so SmartScreen warns the first time → **More info → Run anyway**.
+2. On first launch a banner offers the **document parser**. One download (about 1.1 GB).
+3. Pick a model to answer with — Settings → Chat → LLM. DURU looks at your graphics card and suggests one.
+
+<div align="center">
+  <img src="assets/settings-llm.png" alt="Settings → Chat → LLM, showing installed and recommended models" width="88%" />
+</div>
+
+4. Drag a `.durukb` onto the window, or Settings → Knowledge Base → **Import**.
+
+**First time?** Three steps appear in the middle of the window — just follow them.
+The book icon at the top right opens the **user guide** (14 chapters) inside the app.
+
+<div align="center">
+  <img src="assets/manual-in-app.png" alt="The user guide, opened inside the app" width="88%" />
+</div>
 
 ---
 
