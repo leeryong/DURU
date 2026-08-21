@@ -140,7 +140,7 @@ public administration, and education.
 
 | Knowledge base | What it is | Availability |
 | --- | --- | --- |
-| **National Statutes, 598 documents** | The **legal basis behind 578 institutions** that run Korean society — 368 acts, 109 enforcement decrees, 56 enforcement rules, 46 regulations, 19 directives and notices. Act down to enforcement rule, **as one set**. The full version of the 15 above. | Ask us — statutes carry no copyright restriction, but at **3.7 GB** it can't be hosted here |
+| **National Statutes, 598 documents** | The **statutes and administrative rules that 578 of Korea's major institutions rest on** — 368 acts, 109 enforcement decrees, 56 enforcement rules, 46 regulations, 19 directives and notices. Act down to enforcement rule, **as one set**. The full version of the 15 above. | Ask us — statutes carry no copyright restriction, but at **3.7 GB** it can't be hosted here |
 | **KISTI regulations, 159 documents** | An institution's internal rules and guidelines | Available to **KISTI members** on request |
 
 <details>
