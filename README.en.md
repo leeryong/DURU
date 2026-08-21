@@ -132,22 +132,25 @@ public administration, and education.
 > import it, and you can start asking immediately.
 
 <details>
-<summary><sub>What's inside — 15 full statutes from the Korean National Law Information Center</sub></summary>
+<summary><b>What's inside</b> — 15 full statutes from the Korean National Law Information Center</summary>
 
-<sub>
+<br/>
 
-Constitution · State Public Officials Act · Local Autonomy Act · Administrative Procedures Act ·
-Personal Information Protection Act · National Health Insurance Act · Housing Act ·
-National Land Planning and Utilization Act · Framework Act on the Management of Disasters and Safety ·
-Environmental Impact Assessment Act · Monopoly Regulation and Fair Trade Act ·
-Fair Transactions in Subcontracting Act · Industrial Cluster Development and Factory Establishment Act ·
-Act on National R&D Innovation and its Enforcement Decree
+| | Statute |
+| --- | --- |
+| Foundational | Constitution of the Republic of Korea |
+| Administration | State Public Officials Act · Local Autonomy Act · Administrative Procedures Act |
+| Personal life | Personal Information Protection Act · National Health Insurance Act · Housing Act |
+| Land, environment, safety | National Land Planning and Utilization Act · Environmental Impact Assessment Act · Framework Act on the Management of Disasters and Safety |
+| Fair trade, industry | Monopoly Regulation and Fair Trade Act · Fair Transactions in Subcontracting Act · Industrial Cluster Development and Factory Establishment Act |
+| R&D | Act on National R&D Innovation · its Enforcement Decree |
 
-Korean statutes are non-protected works under Article 7(1) of the Copyright Act, so they may be
-redistributed without conditions. Science and technology, economics, public administration and
-education will follow as redistribution terms are settled.
+Korean statutes are **non-protected works** under Article 7(1) of the Copyright Act, so they may be
+redistributed without conditions.
 
-</sub>
+Science and technology, economics, public administration and education will follow as
+redistribution terms are settled.
+
 </details>
 
 ### 🤖 Five agents, each with a different field
