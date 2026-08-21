@@ -21,8 +21,10 @@
 > <sub>2026-08-21</sub>
 >
 > One installer (about 300 MB) and you're done. → **[Download](../../releases/latest)**
-> **A knowledge base ships inside it** — "National Statutes (sample of 15)" is installed with DURU,
-> so there is something to ask about from the very first launch. Nothing to download separately.
+> **A sample knowledge base ships inside it** — "National Statutes (sample of 15)" is installed
+> with DURU, so there is something to ask about from the very first launch.
+> ⚠️ **It is a sample, and only that** — 15 statutes, not a complete legal database. It's there so
+> you can see how DURU behaves right away. For real work, load the documents you actually need.
 >
 > 🍎 **A macOS build is coming soon.** We'll announce it here as soon as it's ready.
 
@@ -130,8 +132,9 @@ ask only the one you need.
 public administration, and education.
 
 > [!TIP]
-> **The law starter, "National Statutes (sample of 15)", ships inside the installer.**
-> Install DURU and you can start asking on the spot.
+> **A sample, "National Statutes (sample of 15)", ships inside the installer.**
+> Install DURU and you can start asking on the spot — bearing in mind that it is
+> **15 statutes, not the complete body of law**.
 
 <details>
 <summary><b>What's inside</b> — 15 full statutes from the Korean National Law Information Center</summary>
@@ -221,6 +224,12 @@ how sources are presented, and how packages are exchanged
 The installer **contains the "National Statutes (sample of 15)" knowledge base.** It is prepared
 once on first launch, so there is nothing extra to download or import.
 Grab the `.durukb` separately only if you want to hand it to someone or load it again.
+
+> [!WARNING]
+> **This is a sample.** Fifteen statutes, not a complete legal database — it's there so you can see
+> how DURU works from the first minute. For actual work, build your own knowledge base from the
+> documents you need. For authoritative text, consult the
+> [Korean Law Information Center](https://www.law.go.kr).
 
 | If you want it separately | |
 | --- | --- |
