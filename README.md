@@ -260,6 +260,26 @@ DURU는 KISTI **BLUESKY** 프로젝트의 문서 AI 기술 위에서 만들어�
 
 ---
 
+## 📄 기대어 만든 공개 소스
+
+DURU는 아래 공개 소스 위에서 동작합니다. 라이선스가 표시를 요구하는 것들입니다.
+
+| 하는 일 | 쓰는 것 |
+| --- | --- |
+| 문서 읽기 | [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) `Apache-2.0` · [Docling](https://github.com/docling-project/docling) `MIT` · [pypdfium2 / PDFium](https://github.com/pypdfium2-team/pypdfium2) `Apache-2.0, BSD-3` · [pdfplumber](https://github.com/jsvine/pdfplumber) `MIT` · [MarkItDown](https://github.com/microsoft/markitdown) `MIT` · [pikepdf](https://github.com/pikepdf/pikepdf) `MPL-2.0` |
+| 글자 인식(OCR) | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `Apache-2.0` · [Tesseract](https://github.com/tesseract-ocr/tesseract) `Apache-2.0` · [manga-ocr](https://github.com/kha-white/manga-ocr) `Apache-2.0` |
+| 찾기·기억 | [Qdrant](https://github.com/qdrant/qdrant) `Apache-2.0` · [Mem0](https://github.com/mem0ai/mem0) `Apache-2.0` · [BGE-M3](https://huggingface.co/BAAI/bge-m3) `MIT` |
+| AI 모델 실행 | [Ollama](https://github.com/ollama/ollama) `MIT` · [PyTorch](https://github.com/pytorch/pytorch) `BSD-3` · [ONNX Runtime](https://github.com/microsoft/onnxruntime) `MIT` |
+| 프로그램 뼈대 | [FastAPI](https://github.com/fastapi/fastapi) `MIT` · [Uvicorn](https://github.com/encode/uvicorn) `BSD-3` · [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) `MIT` · [Pydantic](https://github.com/pydantic/pydantic) `MIT` · [SQLite](https://www.sqlite.org/) `퍼블릭 도메인` |
+| 화면 | [React](https://github.com/facebook/react) `MIT` · [Vite](https://github.com/vitejs/vite) `MIT` · [PDF.js](https://github.com/mozilla/pdf.js) `Apache-2.0` · [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) `MIT` · [Radix UI](https://github.com/radix-ui/primitives) `MIT` · [Pillow](https://github.com/python-pillow/Pillow) `MIT-CMU` |
+| 도구 연결 | [Model Context Protocol](https://github.com/modelcontextprotocol) `MIT` |
+
+> [!NOTE]
+> 만화·잡지 번역에 쓰는 **[comic-translate](https://github.com/ogkalu2/comic-translate)** `GPL-3.0` 은
+> 설치본에 담기지 않습니다. 사용자가 따로 띄운 프로그램과 **HTTP로 통신할 뿐**입니다.
+
+**전체 목록은 앱 안에 있습니다** — 설정 → 시스템 → 정보. 각 항목의 역할·라이선스·주소를 함께 밝힙니다.
+
 ## 🙏 부탁드립니다
 
 **많이 써 보시고, 느낀 점을 알려 주십시오.**
@@ -270,7 +290,10 @@ DURU는 쓰는 사람의 자리에서 만들어졌습니다. 어떤 문서를 �
 
 - 🐞 **잘 안 되는 것** — 어떤 문서로 무엇을 하려다 어떻게 됐는지 적어 주시면 재현해 봅니다
 - 💡 **있었으면 하는 것** — 업무에서 실제로 막히는 자리를 알려 주십시오
-- 📚 **지식베이스** — 함께 쓰면 좋을 분야가 있다면 (지금은 법률 분야만 공개돼 있습니다)
+- 📚 **지식베이스** — **분야별 지식베이스가 필요하시면 연락 주십시오.**
+  지금은 법률 분야만 공개돼 있습니다. 과학기술 · 경제 · 행정공공 · 교육 등 필요한 분야를
+  알려 주시면 우선순위를 정해 만들겠습니다. 기관 자료로 만들어 쓰는 방법도 안내해 드립니다.
+- 🍎 **맥용이 필요하시면** 알려 주십시오 — 준비되는 대로 이 페이지에서 알려 드리겠습니다.
 
 ---
 

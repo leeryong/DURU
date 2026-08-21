@@ -269,6 +269,27 @@ DURU is built on the document AI work of KISTI's **BLUESKY** project.
 
 ---
 
+## 📄 Open source we lean on
+
+DURU runs on the open source below — the ones whose licenses require attribution.
+
+| For | What we use |
+| --- | --- |
+| Reading documents | [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) `Apache-2.0` · [Docling](https://github.com/docling-project/docling) `MIT` · [pypdfium2 / PDFium](https://github.com/pypdfium2-team/pypdfium2) `Apache-2.0, BSD-3` · [pdfplumber](https://github.com/jsvine/pdfplumber) `MIT` · [MarkItDown](https://github.com/microsoft/markitdown) `MIT` · [pikepdf](https://github.com/pikepdf/pikepdf) `MPL-2.0` |
+| OCR | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) `Apache-2.0` · [Tesseract](https://github.com/tesseract-ocr/tesseract) `Apache-2.0` · [manga-ocr](https://github.com/kha-white/manga-ocr) `Apache-2.0` |
+| Search and memory | [Qdrant](https://github.com/qdrant/qdrant) `Apache-2.0` · [Mem0](https://github.com/mem0ai/mem0) `Apache-2.0` · [BGE-M3](https://huggingface.co/BAAI/bge-m3) `MIT` |
+| Running models | [Ollama](https://github.com/ollama/ollama) `MIT` · [PyTorch](https://github.com/pytorch/pytorch) `BSD-3` · [ONNX Runtime](https://github.com/microsoft/onnxruntime) `MIT` |
+| App framework | [FastAPI](https://github.com/fastapi/fastapi) `MIT` · [Uvicorn](https://github.com/encode/uvicorn) `BSD-3` · [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) `MIT` · [Pydantic](https://github.com/pydantic/pydantic) `MIT` · [SQLite](https://www.sqlite.org/) `Public Domain` |
+| UI | [React](https://github.com/facebook/react) `MIT` · [Vite](https://github.com/vitejs/vite) `MIT` · [PDF.js](https://github.com/mozilla/pdf.js) `Apache-2.0` · [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) `MIT` · [Radix UI](https://github.com/radix-ui/primitives) `MIT` · [Pillow](https://github.com/python-pillow/Pillow) `MIT-CMU` |
+| Tool calling | [Model Context Protocol](https://github.com/modelcontextprotocol) `MIT` |
+
+> [!NOTE]
+> **[comic-translate](https://github.com/ogkalu2/comic-translate)** `GPL-3.0`, used for comic and
+> magazine translation, is **not bundled**. DURU only talks to it over HTTP as a separate program
+> the user runs.
+
+**The full list lives in the app** — Settings → System → About, with each item's role, license and URL.
+
 ## 🙏 A request
 
 **Please use it, and tell us how it went.**
@@ -279,7 +300,11 @@ shape the next release.
 
 - 🐞 **What didn't work** — tell us which document, what you were trying, and what happened; we'll reproduce it
 - 💡 **What you wish it did** — the places where your actual work gets stuck
-- 📚 **Knowledge bases** — fields worth publishing (only law is out so far)
+- 📚 **Knowledge bases** — **get in touch if you need one for your field.**
+  Only law is published so far. Tell us which fields you need — science and technology,
+  economics, public administration, education — and we'll prioritise accordingly.
+  We can also walk you through building one from your own organisation's documents.
+- 🍎 **If you need the macOS build**, let us know — we'll announce it here as soon as it's ready.
 
 ---
 
