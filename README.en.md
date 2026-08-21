@@ -20,9 +20,9 @@
 >
 > <sub>2026-08-21</sub>
 >
-> One installer (about 230 MB) and you're done. → **[Download](../../releases/latest)**
-> A ready-made knowledge base, **"National Statutes (sample of 15)"**, is published alongside it —
-> import it and you can start asking straight away.
+> One installer (about 300 MB) and you're done. → **[Download](../../releases/latest)**
+> **A knowledge base ships inside it** — "National Statutes (sample of 15)" is installed with DURU,
+> so there is something to ask about from the very first launch. Nothing to download separately.
 
 ---
 
@@ -128,8 +128,8 @@ ask only the one you need.
 public administration, and education.
 
 > [!TIP]
-> **The law starter, "National Statutes (sample of 15)", is out.** Download it with the installer,
-> import it, and you can start asking immediately.
+> **The law starter, "National Statutes (sample of 15)", ships inside the installer.**
+> Install DURU and you can start asking on the spot.
 
 <details>
 <summary><b>What's inside</b> — 15 full statutes from the Korean National Law Information Center</summary>
@@ -214,8 +214,15 @@ how sources are presented, and how packages are exchanged
 
 | | |
 | --- | --- |
-| **DURU Setup 0.8.0.exe** | Windows 10/11 (64-bit) · about 230 MB · [Download](../../releases/latest) |
-| **National Statutes (sample of 15).durukb** | A knowledge base to try it with · about 70 MB · [Download](../../releases/latest) |
+| **DURU Setup 0.8.0.exe** | Windows 10/11 (64-bit) · about 300 MB · [Download](../../releases/latest) |
+
+The installer **contains the "National Statutes (sample of 15)" knowledge base.** It is prepared
+once on first launch, so there is nothing extra to download or import.
+Grab the `.durukb` separately only if you want to hand it to someone or load it again.
+
+| If you want it separately | |
+| --- | --- |
+| **National Statutes (sample of 15).durukb** | about 70 MB · [Download](../../releases/latest) |
 
 **Installing**
 
@@ -227,7 +234,8 @@ how sources are presented, and how packages are exchanged
   <img src="assets/settings-llm.png" alt="Settings → Chat → LLM, showing installed and recommended models" width="88%" />
 </div>
 
-4. Drag a `.durukb` onto the window, or Settings → Knowledge Base → **Import**.
+4. **A knowledge base is already there.** To add more, drag a `.durukb` onto the window,
+   or Settings → Knowledge Base → **Import**.
 
 **First time?** Three steps appear in the middle of the window — just follow them.
 The book icon at the top right opens the **user guide** (14 chapters) inside the app.
