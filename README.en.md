@@ -309,7 +309,7 @@ DURU is built on the document AI work of KISTI-NTIS **BLUESKY** project.
 
 DURU is a system **built for AI research purposes**.
 
-How accurate an answer is depends on three things — **how you phrase the question**, the **limits
+How accurate an answer is depends on three things — **how you phrase the question (prompting)**, the **limits
 of the retrieval technology (RAG)** that finds the supporting text, and the **limits of the AI
 model (LLM/VLM)** that writes the answer. It can pick the wrong passage, or read the right one
 wrongly, and **answer with something incorrect.** Smaller models make that more likely.
