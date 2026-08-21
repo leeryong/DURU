@@ -23,6 +23,8 @@
 > One installer (about 300 MB) and you're done. → **[Download](../../releases/latest)**
 > **A knowledge base ships inside it** — "National Statutes (sample of 15)" is installed with DURU,
 > so there is something to ask about from the very first launch. Nothing to download separately.
+>
+> 🍎 **A macOS build is coming soon.** We'll announce it here as soon as it's ready.
 
 ---
 
@@ -223,6 +225,12 @@ Grab the `.durukb` separately only if you want to hand it to someone or load it 
 | If you want it separately | |
 | --- | --- |
 | **National Statutes (sample of 15).durukb** | about 70 MB · [Download](../../releases/latest) |
+
+> [!NOTE]
+> 🍎 **A macOS build is coming soon.** Only the Windows build exists today.
+> It will appear here and on [Releases](../../releases) as soon as it's ready.
+> Using it is the same; only installing differs — open the `.dmg` and drag DURU into
+> your `Applications` folder.
 
 **Installing**
 
