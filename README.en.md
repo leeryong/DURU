@@ -305,6 +305,22 @@ DURU is built on the document AI work of KISTI-NTIS **BLUESKY** project.
 
 ---
 
+## ⚠️ Please note
+
+DURU is a system **built for AI research purposes**.
+
+How accurate an answer is depends on **how you phrase the question** and on the **limits of the
+retrieval technology (RAG)** that finds the supporting text. It can pick the wrong passage, or
+read the right one wrongly, and **answer with something incorrect.**
+
+**For decisions that matter, always check the original.** That is exactly why every answer shows
+its sources and why clicking one takes you to that spot — it is there to be verified.
+
+For material where accuracy matters, such as laws and regulations, **consult the authoritative
+text as well** (for Korean statutes: [Korean Law Information Center](https://www.law.go.kr)).
+
+---
+
 ## 👨‍💻 Developers
 
 KISTI-NTIS **BLUESKY** — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)

@@ -296,6 +296,21 @@ DURU는 KISTI-NTIS **BLUESKY** 프로젝트의 문서 AI 기술 위에서 만들
 
 ---
 
+## ⚠️ 알려 드립니다
+
+DURU는 **AI 연구 목적으로 만든 시스템**입니다.
+
+답의 정확도는 **어떻게 묻는지**와, 문서에서 근거를 찾아오는 **기술(RAG)의 한계**에 따라
+달라집니다. 근거를 잘못 골라 오거나, 찾은 근거를 잘못 읽어 **틀린 내용을 섞어 답할 수 있습니다.**
+
+**중요한 판단에는 반드시 원문을 직접 확인하십시오.** 답마다 근거를 함께 보여 주고
+누르면 그 자리로 가게 만든 것도 그 때문입니다 — 확인하시라고 있는 장치입니다.
+
+법령·규정처럼 정확성이 중요한 자료는 **정본을 함께 확인하시기 바랍니다**
+(대한민국 법령: [국가법령정보센터](https://www.law.go.kr)).
+
+---
+
 ## 👨‍💻 개발자 그룹
 
 KISTI-NTIS **BLUESKY** 팀 — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
