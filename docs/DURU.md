@@ -266,5 +266,5 @@ DURU는 오른쪽을 택했습니다. 자료를 올리지 않으므로 심의 �
 ---
 
 <div align="center">
-  <sub><b>DURU</b> · 두루 돕는 AI — KISTI BLUESKY · 문의: 이용 (ryonglee@kisti.re.kr)</sub>
+  <sub><b>DURU</b> · 두루 돕는 AI — KISTI-NTIS BLUESKY · 문의: 이용 (ryonglee@kisti.re.kr)</sub>
 </div>

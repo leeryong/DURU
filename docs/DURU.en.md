@@ -279,5 +279,5 @@ This repository will carry the announcement when they are released.
 ---
 
 <div align="center">
-  <sub><b>DURU</b> · AI that helps all around — KISTI BLUESKY · Contact: Ryong Lee (ryonglee@kisti.re.kr)</sub>
+  <sub><b>DURU</b> · AI that helps all around — KISTI-NTIS BLUESKY · Contact: Ryong Lee (ryonglee@kisti.re.kr)</sub>
 </div>

@@ -256,7 +256,7 @@ AI 모델도 밖에 두지 않습니다. **Ollama**로 PC에 설치할 수 있�
 
 ## 🌌 관련 프로젝트
 
-DURU는 KISTI **BLUESKY** 프로젝트의 문서 AI 기술 위에서 만들어졌습니다.
+DURU는 KISTI-NTIS **BLUESKY** 프로젝트의 문서 AI 기술 위에서 만들어졌습니다.
 
 | 시스템 | 소개 |
 | --- | --- |
@@ -285,7 +285,7 @@ DURU는 KISTI **BLUESKY** 프로젝트의 문서 AI 기술 위에서 만들어�
 
 ## 👨‍💻 개발자 그룹
 
-KISTI **BLUESKY** 팀 — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
+KISTI-NTIS **BLUESKY** 팀 — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
 
 * 이용 ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))
 
@@ -299,6 +299,6 @@ KISTI **BLUESKY** 팀 — *Harmonizing Human and AI Collaboration* · [github.co
 
 <div align="center">
   <sub>
-    <b>DURU</b> · 두루 돕는 AI — KISTI BLUESKY
+    <b>DURU</b> · 두루 돕는 AI — KISTI-NTIS BLUESKY
   </sub>
 </div>

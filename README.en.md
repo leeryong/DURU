@@ -265,7 +265,7 @@ The book icon at the top right opens the **user guide** (14 chapters) inside the
 
 ## 🌌 Related projects
 
-DURU is built on the document AI work of KISTI's **BLUESKY** project.
+DURU is built on the document AI work of KISTI-NTIS **BLUESKY** project.
 
 | System | About |
 | --- | --- |
@@ -294,7 +294,7 @@ DURU is built on the document AI work of KISTI's **BLUESKY** project.
 
 ## 👨‍💻 Developers
 
-KISTI **BLUESKY** — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
+KISTI-NTIS **BLUESKY** — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
 
 * Ryong Lee ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))
 
@@ -308,6 +308,6 @@ KISTI **BLUESKY** — *Harmonizing Human and AI Collaboration* · [github.com/le
 
 <div align="center">
   <sub>
-    <b>DURU</b> · AI that helps all around — KISTI BLUESKY
+    <b>DURU</b> · AI that helps all around — KISTI-NTIS BLUESKY
   </sub>
 </div>
