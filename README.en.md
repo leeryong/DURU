@@ -254,7 +254,13 @@ Grab the `.durukb` separately only if you want to hand it to someone or load it 
 4. **A knowledge base is already there.** To add more, drag a `.durukb` onto the window,
    or Settings → Knowledge Base → **Import**.
 
-**First time?** Three steps appear in the middle of the window — just follow them.
+**First time?** The middle of the window tells you what to do first.
+
+1. Set up a **knowledge base** on the left (one is already there)
+2. Pick an **agent** at the top right
+3. **Ask** at the bottom right — plain words are fine
+4. Click a **source** under the answer — it unfolds which document and page
+
 The book icon at the top right opens the **user guide** (14 chapters) inside the app.
 
 <div align="center">
