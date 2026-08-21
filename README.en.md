@@ -261,9 +261,28 @@ DURU is built on the document AI work of KISTI's **BLUESKY** project.
 
 ---
 
+## 🙏 A request
+
+**Please use it, and tell us how it went.**
+
+DURU was built from the user's side of the desk. A document it read badly, a question that
+pulled up the wrong thing, a screen whose meaning wasn't clear — those accounts are what
+shape the next release.
+
+- 🐞 **What didn't work** — tell us which document, what you were trying, and what happened; we'll reproduce it
+- 💡 **What you wish it did** — the places where your actual work gets stuck
+- 📚 **Knowledge bases** — fields worth publishing (only law is out so far)
+
+---
+
+## 📞 Contact
+
+* Ryong Lee ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))
+
+---
+
 <div align="center">
   <sub>
-    <b>DURU</b> · AI that helps all around — KISTI BLUESKY<br/>
-    Contact: Ryong Lee (ryonglee@kisti.re.kr)
+    <b>DURU</b> · AI that helps all around — KISTI BLUESKY
   </sub>
 </div>
