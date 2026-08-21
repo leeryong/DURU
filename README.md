@@ -297,6 +297,14 @@ DURU는 쓰는 사람의 자리에서 만들어졌습니다. 어떤 문서를 �
 
 ---
 
+## 👨‍💻 개발자 그룹
+
+KISTI **BLUESKY** 팀 — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
+
+* 이용 ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))
+
+---
+
 ## 📞 문의
 
 * 이용 ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))

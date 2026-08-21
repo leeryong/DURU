@@ -308,6 +308,14 @@ shape the next release.
 
 ---
 
+## 👨‍💻 Developers
+
+KISTI **BLUESKY** — *Harmonizing Human and AI Collaboration* · [github.com/leeryong/KISTI_BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)
+
+* Ryong Lee ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))
+
+---
+
 ## 📞 Contact
 
 * Ryong Lee ([ryonglee@kisti.re.kr](mailto:ryonglee@kisti.re.kr))
