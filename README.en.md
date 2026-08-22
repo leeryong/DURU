@@ -20,7 +20,7 @@
 >
 > <sub>2026-08-22 · Much faster search</sub>
 >
-> One installer (about 300 MB) and you're done. → **[Download](../../releases/latest)**
+> One installer (about 320 MB) and you're done. → **[Download](../../releases/latest)**
 > **A sample knowledge base ships inside it** — "National Statutes (sample of 15)" is installed
 > with DURU, so there is something to ask about from the very first launch.
 > ⚠️ **It is a sample, and only that** — 15 statutes, not a complete legal database. It's there so
@@ -237,6 +237,7 @@ To hand it to someone, use **Export** inside DURU to write a `.durukb` file.
 > how DURU works from the first minute. For actual work, build your own knowledge base from the
 > documents you need. For authoritative text, consult the
 > [Korean Law Information Center](https://www.law.go.kr).
+
 > [!NOTE]
 > 🍎 **A macOS build is coming soon.** Only the Windows build exists today.
 > It will appear here and on [Releases](../../releases) as soon as it's ready.
