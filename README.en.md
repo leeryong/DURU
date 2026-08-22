@@ -16,9 +16,9 @@
 
 ---
 
-> ## 📢 The Windows build is out — **v0.8.0**
+> ## 📢 The Windows build is out — **v0.8.3**
 >
-> <sub>2026-08-21</sub>
+> <sub>2026-08-22 · Much faster search</sub>
 >
 > One installer (about 300 MB) and you're done. → **[Download](../../releases/latest)**
 > **A sample knowledge base ships inside it** — "National Statutes (sample of 15)" is installed
