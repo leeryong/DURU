@@ -14,11 +14,17 @@
   <img src="assets/duru_intro.png" alt="DURU overview — an AI you install on your own PC. Put documents (PDF, HWP, DOCX, PPTX, XLSX, TXT) in to build a knowledge base, then ask, summarise and analyse entirely on your machine: no external server, no external RAG, no external LLM. For researchers, civil servants, soldiers, office workers, teachers and students" width="92%" />
 </div>
 
+<div align="center">
+  <img src="assets/duru_agents.png" alt="The DURU agents — Byeol-i the default assistant, Haru for administration, Miro for work, Toto for study, Choco for teaching. Documents go into a knowledge base and stay on your own PC" width="84%" />
+  <br />
+  <sub>Five assistants, each with its own role — Byeol-i · Haru · Miro · Toto · Choco</sub>
+</div>
+
 ---
 
 > ## 📢 The Windows build is out — **v0.8.4**
 >
-> <sub>2026-08-22 · Much faster search</sub>
+> <sub>2026-08-26 · Stability and usability improvements</sub>
 >
 > One installer (about 370 MB) and you're done. → **[Download](../../releases/latest)**
 > **A sample knowledge base ships inside it** — "National Statutes (sample of 15)" is installed
