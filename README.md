@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="assets/duru_intro.png" alt="DURU — 두루 돕는 AI" width="92%" />
+  <img src="assets/duru_intro.png" alt="DURU 소개 — 내 PC에 설치해서 바로 쓰는 AI. 문서(PDF·HWP·DOCX·PPTX·XLSX·TXT)를 담아 지식베이스를 만들고, 외부 서버·외부 RAG·외부 LLM 없이 내 PC 안에서 질의응답·요약·분석에 쓴다. 연구자·공무원·군인·회사원·선생님·학생" width="92%" />
 </div>
 
 ---
