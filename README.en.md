@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="assets/duru_intro.png" alt="DURU — AI that helps all around" width="92%" />
+  <img src="assets/duru_intro.png" alt="DURU overview — an AI you install on your own PC. Put documents (PDF, HWP, DOCX, PPTX, XLSX, TXT) in to build a knowledge base, then ask, summarise and analyse entirely on your machine: no external server, no external RAG, no external LLM. For researchers, civil servants, soldiers, office workers, teachers and students" width="92%" />
 </div>
 
 ---
