@@ -22,7 +22,7 @@
 
 ---
 
-> ## 📢 The Windows build is out — **v0.8.5**
+> ## 📢 The Windows and macOS builds are out — **v0.8.5**
 >
 > <sub>2026-08-26 · Stability and usability improvements</sub>
 >
@@ -32,7 +32,9 @@
 > ⚠️ **It is a sample, and only that** — 15 statutes, not a complete legal database. It's there so
 > you can see how DURU behaves right away. For real work, load the documents you actually need.
 >
-> 🍎 **A macOS build is coming soon.** We'll announce it here as soon as it's ready.
+> 🍎 **The macOS build is out too.** Open the `.dmg` (about 299 MB) and drag DURU into
+> your `Applications` folder. macOS 14 or later, Apple Silicon (M1+).
+> It is **signed and notarized by Apple**, so it opens without a warning. → **[Download](https://github.com/leeryong/DURU/releases/tag/v0.8.5)**
 
 ---
 
@@ -233,6 +235,7 @@ how sources are presented, and how packages are exchanged
 | | |
 | --- | --- |
 | **DURU-Setup-0.8.5.exe** | Windows 10/11 (64-bit) · about 262 MB · [Download](../../releases/latest) |
+| **DURU-0.8.5-macOS-arm64.dmg** | macOS 14+ · Apple Silicon (M1+) · about 299 MB · [Download](../../releases/latest) |
 
 The installer **contains the "National Statutes (sample of 15)" knowledge base.** It is prepared
 once on first launch, so there is nothing extra to download or import.
@@ -245,10 +248,13 @@ To hand it to someone, use **Export** inside DURU to write a `.durukb` file.
 > [Korean Law Information Center](https://www.law.go.kr).
 
 > [!NOTE]
-> 🍎 **A macOS build is coming soon.** Only the Windows build exists today.
-> It will appear here and on [Releases](../../releases) as soon as it's ready.
+> 🍎 **The macOS build is published** — see the [v0.8.5 release](https://github.com/leeryong/DURU/releases/tag/v0.8.5).
+> Apple Silicon only (M1+), macOS 14 or later. It is **signed and notarized by Apple**,
+> so it opens without a warning.
 > Using it is the same; only installing differs — open the `.dmg` and drag DURU into
 > your `Applications` folder.
+> On first launch it downloads the document parsers and the Korean/Office reader
+> (about 1 GB, a few minutes).
 
 **Installing**
 
