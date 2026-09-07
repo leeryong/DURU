@@ -221,6 +221,65 @@ No dedicated graphics card is required, and it works on **networks with no inter
 
 ---
 
+## 🎓 Example — studying English with Toto
+
+Put your textbook into a knowledge base, and **Toto, the study buddy**, will set questions
+from it and mark your answers. Below is a real session with an English grammar book.
+
+> ⚠️ **The textbooks are not included.** The books you see are only there to show how it
+> works; none of them ship with DURU. **Bring your own textbook files** and build a
+> knowledge base from them — PDF, HWP, Word, e-book and scanned documents all work.
+>
+> The **book pages and covers are blurred** in these screenshots, out of respect for the
+> authors and publishers. Showing how the tool behaves does not require reproducing their work.
+
+### ① Questions from the page you are reading
+
+<div align="center">
+  <img src="assets/example-english-quiz.jpg" alt="DURU window — English study materials on the left, page 111 of a grammar book in the viewer, and Toto setting three fill-in-the-blank questions from that page on the right" width="94%" />
+</div>
+
+<sub>Ask *"set me some verb questions from this page"* and Toto builds them from the page you
+have **open right now** — one each on the present, the past and the emphatic use, with the
+Korean meaning alongside. Click any item under <b>evidence</b> to jump to that spot in the book.</sub>
+
+### ② Answers marked, with the reason why
+
+<div align="center">
+  <img src="assets/example-english-feedback.jpg" alt="After the user answers doesn't, did, do, Toto marks each item and explains the one that was wrong" width="94%" />
+</div>
+
+<sub>Send your answers and each item comes back ✅ or ❌ with the <b>reason</b>, in the words of
+the textbook. Here the third answer was <code>do</code>; Toto points at the original line
+<i>"Your sister <b>did do</b> well…"</i> to show that the emphatic form <code>did</code> belongs there,
+then adds one follow-up question to put the point to use.</sub>
+
+**What this means in practice**
+
+- Swap the textbook and you have a different subject — certification prep, a course text, internal training material
+- No internet needed. The book and the conversation both stay **on your own PC**
+- Answers cannot drift away from the book — click the evidence and check the source yourself
+
+<details>
+<summary>📚 Textbooks used in the screenshots (all rights remain with their owners)</summary>
+
+<br>
+
+The session above was run against the books below. **None of them ship with DURU**, and their
+pages and covers are blurred in the screenshots. Our thanks to the authors and publishers who
+made them. To try this yourself, use a **legitimately purchased** copy.
+
+| Textbook | Author · Publisher | Look up |
+| --- | --- | --- |
+| *Oxford Guide to English Grammar* | John Eastwood · Oxford University Press | [ISBN 978-0-19-431351-9](https://isbnsearch.org/isbn/9780194313519) |
+| *English Grammar in Use* | Raymond Murphy · Cambridge University Press | [ISBN 978-1-108-45765-1](https://isbnsearch.org/isbn/9781108457651) |
+| *Essential Grammar in Use* | Raymond Murphy · Cambridge University Press | [ISBN 978-1-108-92616-6](https://isbnsearch.org/isbn/9781108926166) |
+| *Practice Makes Perfect: Complete English All-in-One* | Ed Swick · McGraw Hill | [ISBN 978-1-260-46436-4](https://isbnsearch.org/isbn/9781260464364) |
+| *English Training for the Workplace (Students' Book)* | International Labour Organization | [ILO publications](https://www.ilo.org/publications) |
+| *Free English Grammar* | freely distributed material | — |
+
+</details>
+
 ## 📖 In more detail
 
 What a knowledge base is, how the five agents are put together,
