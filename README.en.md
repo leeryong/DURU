@@ -263,7 +263,7 @@ then adds one follow-up question to put the point to use.</sub>
 - No internet needed. The book and the conversation both stay **on your own PC**
 - Answers cannot drift away from the book — click the evidence and check the source yourself
 
-<details>
+<details open>
 <summary>📚 Textbooks used in the screenshots (all rights remain with their owners)</summary>
 
 <br>
