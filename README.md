@@ -225,8 +225,9 @@ AI 모델도 밖에 두지 않습니다. **Ollama**로 PC에 설치할 수 있�
 > 배포본에는 담기지 않습니다. **각자 가진 교재 파일을 준비해** 지식베이스로 만드셔야 합니다.
 > PDF·HWP·워드·전자책·스캔본을 넣을 수 있습니다.
 >
-> 그림에서 **교재 본문과 표지는 흐리게 처리**했습니다. 저자와 출판사의 권리를 존중하기 위한
-> 것으로, 도구가 어떻게 동작하는지 보이는 데에는 원문이 필요하지 않습니다.
+> 그림에 보이는 교재의 권리는 각 저자와 출판사에 있습니다. 도구가 어떻게 동작하는지
+> 보이기 위해 **화면 그대로** 실었을 뿐이며, 교재를 대신할 수 있는 분량이 아닙니다.
+> 쓰인 교재 여섯 권의 출처는 아래 「예시 화면에 쓰인 교재」에 모두 밝혀 두었습니다.
 
 ### ① 지금 보고 있는 쪽에서 문제를 냅니다
 
@@ -236,7 +237,9 @@ AI 모델도 밖에 두지 않습니다. **Ollama**로 PC에 설치할 수 있�
 
 <sub>*"이 쪽으로 동사 문법 문제를 내 줘"* 라고 하면, 토토가 **지금 열어 둔 쪽**을 근거로 문제를 만듭니다.
 현재·과거·강조 용법을 하나씩 짚어 빈칸 문제 세 개를 내고, 한국어 뜻도 함께 붙여 줍니다.
-아래 <b>답변의 근거</b>를 누르면 교재의 그 자리로 바로 갑니다.</sub>
+아래 <b>답변의 근거</b>를 누르면 교재의 그 자리로 바로 갑니다.
+<br>※ 문항 구성과 번역·해설은 토토가 만든 것이고, 예문은 그 쪽의 문장을 빈칸으로 바꾼 것입니다 —
+교재의 문제집을 옮겨 온 것이 아닙니다.</sub>
 
 ### ② 답을 채점하고, 왜 그런지 설명해 줍니다
 
@@ -260,18 +263,20 @@ AI 모델도 밖에 두지 않습니다. **Ollama**로 PC에 설치할 수 있�
 
 <br>
 
-이 예시는 아래 교재로 시험해 본 것입니다. **어느 것도 DURU 에 포함되지 않으며**,
-화면에서는 본문과 표지를 흐리게 처리했습니다. 좋은 교재를 만들어 주신 저자와 출판사에 감사드립니다.
-직접 해 보시려면 **정식으로 구입한 파일**을 쓰십시오.
+이 예시는 아래 여섯 권으로 시험해 본 것입니다. **어느 것도 DURU 에 포함되지 않습니다.**
+좋은 교재를 만들어 주신 저자와 출판사에 감사드립니다.
 
-| 교재 | 지은이 · 펴낸곳 | 찾아보기 |
+링크는 **출판사·발행기관의 공식 페이지**로만 걸었습니다. 무단으로 올라온 PDF 사본은
+링크하지 않습니다. 상용 교재는 **정식으로 구입한 파일**로 해 보십시오.
+
+| 교재 | 지은이 · 펴낸곳 | 원본 |
 | --- | --- | --- |
-| *Oxford Guide to English Grammar* | John Eastwood · Oxford University Press | [ISBN 978-0-19-431351-9](https://isbnsearch.org/isbn/9780194313519) |
-| *English Grammar in Use* | Raymond Murphy · Cambridge University Press | [ISBN 978-1-108-45765-1](https://isbnsearch.org/isbn/9781108457651) |
-| *Essential Grammar in Use* | Raymond Murphy · Cambridge University Press | [ISBN 978-1-108-92616-6](https://isbnsearch.org/isbn/9781108926166) |
-| *Practice Makes Perfect: Complete English All-in-One* | Ed Swick · McGraw Hill | [ISBN 978-1-260-46436-4](https://isbnsearch.org/isbn/9781260464364) |
-| *English Training for the Workplace (Students' Book)* | International Labour Organization | [ILO 간행물](https://www.ilo.org/publications) |
-| *Free English Grammar* | 공개 배포 자료 | — |
+| *Oxford Guide to English Grammar* | John Eastwood · Oxford University Press | 상용 · [서지 정보](https://openlibrary.org/books/OL7385208M/Oxford_Guide_to_English_Grammar) |
+| *English Grammar in Use* | Raymond Murphy · Cambridge University Press | 상용 · [서지 정보](https://openlibrary.org/isbn/9781108457651) |
+| *Essential Grammar in Use* | Raymond Murphy · Cambridge University Press | 상용 · [서지 정보](https://openlibrary.org/works/OL1645784W) |
+| *Practice Makes Perfect: Complete English All-in-One for ESL Learners* | Ed Swick · McGraw Hill | 상용 · [McGraw Hill 공식](https://www.mheducation.com/highered/mhp/product/practice-makes-perfect-complete-english-all-one-esl-learners.html) |
+| *Basic English for Workplace Communication — Students' Book* | International Labour Organization | **무료 공개** · [ILO 공식 PDF](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@africa/@ro-abidjan/@sro-addis_ababa/documents/publication/wcms_883414.pdf) · [소개](https://www.ilo.org/publications/basic-english-workplace-communication) |
+| *Free English Grammar* | 무료 배포 학습 자료 | 발행처를 확인하지 못해 링크를 걸지 않았습니다 |
 
 </details>
 

@@ -230,8 +230,9 @@ from it and mark your answers. Below is a real session with an English grammar b
 > works; none of them ship with DURU. **Bring your own textbook files** and build a
 > knowledge base from them — PDF, HWP, Word, e-book and scanned documents all work.
 >
-> The **book pages and covers are blurred** in these screenshots, out of respect for the
-> authors and publishers. Showing how the tool behaves does not require reproducing their work.
+> Rights in the books shown belong to their authors and publishers. The screens are reproduced
+> **as they appeared**, purely to show how the tool behaves — nowhere near enough of any book to
+> stand in for it. Every title is credited under "Textbooks used in the screenshots" below.
 
 ### ① Questions from the page you are reading
 
@@ -241,7 +242,9 @@ from it and mark your answers. Below is a real session with an English grammar b
 
 <sub>Ask *"set me some verb questions from this page"* and Toto builds them from the page you
 have **open right now** — one each on the present, the past and the emphatic use, with the
-Korean meaning alongside. Click any item under <b>evidence</b> to jump to that spot in the book.</sub>
+Korean meaning alongside. Click any item under <b>evidence</b> to jump to that spot in the book.
+<br>Note: the question set, the translations and the explanations are Toto's own; the sentences are
+the page's own examples with the verb blanked out. Nothing is lifted from the book's exercises.</sub>
 
 ### ② Answers marked, with the reason why
 
@@ -265,18 +268,20 @@ then adds one follow-up question to put the point to use.</sub>
 
 <br>
 
-The session above was run against the books below. **None of them ship with DURU**, and their
-pages and covers are blurred in the screenshots. Our thanks to the authors and publishers who
-made them. To try this yourself, use a **legitimately purchased** copy.
+The session above was run against the six books below. **None of them ship with DURU.**
+Our thanks to the authors and publishers who made them.
 
-| Textbook | Author · Publisher | Look up |
+Links point **only to the publisher's or issuing body's own page**. We do not link to
+unauthorised PDF copies. For the commercial titles, use a **legitimately purchased** copy.
+
+| Textbook | Author · Publisher | Source |
 | --- | --- | --- |
-| *Oxford Guide to English Grammar* | John Eastwood · Oxford University Press | [ISBN 978-0-19-431351-9](https://isbnsearch.org/isbn/9780194313519) |
-| *English Grammar in Use* | Raymond Murphy · Cambridge University Press | [ISBN 978-1-108-45765-1](https://isbnsearch.org/isbn/9781108457651) |
-| *Essential Grammar in Use* | Raymond Murphy · Cambridge University Press | [ISBN 978-1-108-92616-6](https://isbnsearch.org/isbn/9781108926166) |
-| *Practice Makes Perfect: Complete English All-in-One* | Ed Swick · McGraw Hill | [ISBN 978-1-260-46436-4](https://isbnsearch.org/isbn/9781260464364) |
-| *English Training for the Workplace (Students' Book)* | International Labour Organization | [ILO publications](https://www.ilo.org/publications) |
-| *Free English Grammar* | freely distributed material | — |
+| *Oxford Guide to English Grammar* | John Eastwood · Oxford University Press | commercial · [catalogue record](https://openlibrary.org/books/OL7385208M/Oxford_Guide_to_English_Grammar) |
+| *English Grammar in Use* | Raymond Murphy · Cambridge University Press | commercial · [catalogue record](https://openlibrary.org/isbn/9781108457651) |
+| *Essential Grammar in Use* | Raymond Murphy · Cambridge University Press | commercial · [catalogue record](https://openlibrary.org/works/OL1645784W) |
+| *Practice Makes Perfect: Complete English All-in-One for ESL Learners* | Ed Swick · McGraw Hill | commercial · [McGraw Hill](https://www.mheducation.com/highered/mhp/product/practice-makes-perfect-complete-english-all-one-esl-learners.html) |
+| *Basic English for Workplace Communication — Students' Book* | International Labour Organization | **free** · [official PDF](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@africa/@ro-abidjan/@sro-addis_ababa/documents/publication/wcms_883414.pdf) · [about](https://www.ilo.org/publications/basic-english-workplace-communication) |
+| *Free English Grammar* | freely distributed study material | publisher could not be identified, so no link is given |
 
 </details>
 
